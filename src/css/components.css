@@ -47,7 +47,7 @@ img {
 
 .row {
   align-items: center;
-  margin-top: 5%;
+  margin-top: 1%;
   margin-bottom: 5%;
 }
 
@@ -62,7 +62,7 @@ a:hover {
   margin-right: 2%;
   padding: 8px;
   border-radius: 8px;
-  height: 200px;
+  height: 400px;
 }
 
 .Card:hover {
@@ -93,7 +93,7 @@ p {
   width: 100%;
   object-fit: cover;
   border-radius: 8px;
-  height: 94px;
+  height: 294px;
 }
 
 .Footer {
