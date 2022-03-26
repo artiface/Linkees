@@ -1,7 +1,7 @@
 import pancakes from '../assets/pancakes.png'
 import dreaming from '../assets/dreaming.png'
 import zalgo  from '../assets/zalgo.png'
-import zxzzxz from '../assets/artiface.jpg'
+import zxzzxz from '../assets/edge.png'
 import distractions from '../assets/distraction.png'
 import twitter from '../assets/twitter.png'
 import opensea from '../assets/opensea.png'
@@ -14,7 +14,7 @@ const items = [{
 },
 {
     "title": "Mister pancakes",
-    "subtitle": "Mister pancakes was the best kitty ever",
+    "subtitle": "Mister pancakes was the best kitty ever.",
     "image": pancakes,
     "link": "https://opensea.io/collection/mr-pancakes"
 },
