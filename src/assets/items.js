@@ -20,7 +20,7 @@ const items = [{
 },
 {
     "title": "Zalgo x Artiface",
-    "subtitle": "Callborative effort with @ZalgoNFT",
+    "subtitle": "Callborative effort with <a href='https://www.zalgo.app/'>@ZalgoNFT</a>",
     "image": zalgo,
     "link": "https://opensea.io/collection/zalgoxartiface" //instagram profile link
 },
